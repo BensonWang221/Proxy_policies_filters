@@ -1,5 +1,6 @@
 # OPENAI所用到的服务相关域名，包括Google和CloudFlare的人机验证之类
 # 转载自https://zhuanlan.zhihu.com/p/632794711
+# https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/QuantumultX/OpenAI/OpenAI.list
 
 DOMAIN,cdn.auth0.com,PROXY         
 DOMAIN-SUFFIX,anthropic.com,PROXY 
