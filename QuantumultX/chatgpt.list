@@ -43,7 +43,20 @@ DOMAIN-SUFFIX,sentry.io,PROXY
 DOMAIN-SUFFIX,hcaptcha.com,PROXY 
 DOMAIN-SUFFIX,recaptcha.net,PROXY 
 DOMAIN-SUFFIX,msftconnecttest.com,PROXY 
-DOMAIN-SUFFIX,poe.com,PROXY 
+DOMAIN-SUFFIX,poe.com,PROXY
+HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,auth0.com,OpenAI
+HOST-SUFFIX,challenges.cloudflare.com,OpenAI
+HOST-SUFFIX,client-api.arkoselabs.com,OpenAI
+HOST-SUFFIX,events.statsigapi.net,OpenAI
+HOST-SUFFIX,featuregates.org,OpenAI
+HOST-SUFFIX,identrust.com,OpenAI
+HOST-SUFFIX,intercom.io,OpenAI
+HOST-SUFFIX,intercomcdn.com,OpenAI
+HOST-SUFFIX,poe.com,OpenAI
+HOST-SUFFIX,sentry.io,OpenAI
+HOST-SUFFIX,stripe.com,OpenAI
+HOST-KEYWORD,openai,OpenAI
           
 DOMAIN-KEYWORD,openai,PROXY
 DOMAIN-KEYWORD,openaiapi,PROXY
